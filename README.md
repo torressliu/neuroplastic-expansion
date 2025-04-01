@@ -114,6 +114,7 @@ python stl/train.py \
     --seed 0 \
     --static_actor \
     --stl_critic \
+    --init_method 'lecun'\
     --actor_sparsity 0.25 \
     --critic_sparsity 0.25\
     --initial_stl_sparsity 0.8\
