@@ -225,14 +225,15 @@ conda env create -f env_export/conda_environment.yml
 
 ## Citation
 
-If you use this code in your research, please cite related paper:
+If you use this code in your research, please cite the related paper:
 
 ```bibtex
-@article{liu2024neuroplastic,
-  title={Neuroplastic Expansion in Deep Reinforcement Learning},
-  author={Liu, Jiashun and Obando-Ceron, Johan and Courville, Aaron and Pan, Ling},
-  journal={arXiv preprint arXiv:2410.07994},
-  year={2024}
+@article{liu2025neuroplastic,
+title={Neuroplastic Expansion in Deep Reinforcement Learning},
+author={Jiashun Liu and Johan Samir Obando Ceron and Aaron Courville and Ling Pan},
+booktitle={The Thirteenth International Conference on Learning Representations},
+year={2025},
+url={https://openreview.net/forum?id=20qZK2T7fa}
 }
 ```
 
